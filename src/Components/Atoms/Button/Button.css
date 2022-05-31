@@ -1,0 +1,14 @@
+.next-button
+{
+    border-radius: 8px;
+    background-color: #30A193;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    text-transform: none;
+    width: 40px;
+    height: 46px;
+}

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icons test Matches the snapshot 1`] = `
+<div>
+  <div
+    imagesrc="typography.svg"
+  >
+    <div>
+      <div
+        data-src="typography.svg"
+        src=""
+      />
+    </div>
+  </div>
+</div>
+`;
